@@ -1,0 +1,4 @@
+- Faites un fork du projet, sur votre espace personnel.
+
+- Dans un répertoire vide, en dehors d'une indexation git, faites git clone <adresse du projet> . 
+-- Ne pas oublier le ., pour que git ne créé pas un nouveau répertoire
